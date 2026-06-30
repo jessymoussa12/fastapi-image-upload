@@ -3,7 +3,7 @@ name = "fastapi-image-upload"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.14"
+requires-python = ">=3.12"
 dependencies = [
     "fastapi>=0.137.1",
     "pillow>=12.2.0",
